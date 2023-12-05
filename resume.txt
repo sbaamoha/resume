@@ -1,0 +1,72 @@
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+
+\begin{document}
+
+\begin{center}
+{\LARGE \textbf{Mohamed Sba}}
+
+\vspace{5pt}
+
+\textbf{Phone:} +213664512005 \\
+\textbf{Email:} sbaamohe@gmail.com \\
+\textbf{GitHub:} \href{https://github.com/sbaamoha}{https://github.com/sbaamoha} \\
+\textbf{LinkedIn:} \href{https://www.linkedin.com/in/sba-mohamed-a14370217/}{https://www.linkedin.com/in/sba-mohamed-a14370217/} \\
+
+\end{center}
+
+\section*{Summary}
+Self-taught full-stack developer with expertise in crafting aesthetically
+pleasing and highly functional websites and applications.
+Proficient in HTML, CSS, JavaScript, TypeScript, Tailwindcss, React, Next.js,
+and Node.js.
+Keen eye for detail and innovative problem-solving, staying up-to-date
+with the latest web development trends.
+\section*{Skills}
+\textbf{Programming Languages:} Typescript \\
+\textbf{Frontend Technologies:} React with Typescript, HTML5, CSS3, Next.js \\
+\textbf{Backend Frameworks:} ExpressJS \\
+\textbf{Database Management Systems:} PostgreSQL, MySQL, MongoDB \\
+\textbf{Cloud and Deployment Platforms:} Docker \\
+\textbf{Development Tools:} Chrome DevTools, Version Control (Git) \\
+
+\section*{Experience}
+
+\noindent \textbf{Full-Stack Developer | Freelance (Remote)} \\
+Mar 2023 – Present \\
+\vspace{-10pt}
+\begin{itemize}
+  \item Utilized JavaScript, React, Redux, Node.js, and MySQL in freelance
+projects, managing end-to-end development, deployment on VPS, and
+database manipulation.
+\end{itemize}
+\vspace{20pt}
+
+\noindent \textbf{Front-end Developer | inhouse.sa (SAR, Saudi Arabia)} \\
+Sep 2023 – Present \\
+\vspace{-10pt}
+\begin{itemize}
+  \item Employed TypeScript, React, Tailwindcss, Bootstrap, and Rest API to
+design responsive interfaces, enhance app performance, and streamline
+manufacturing processes.
+\end{itemize}
+\vspace{20pt}
+
+\noindent \textbf{Full-stack Developer Contributor | Cal.com (Remote)} \\
+Dec 2023 – Present \\
+\vspace{-10pt}
+\begin{itemize}
+  \item Actively contributed to an open-source project using Next.js, Type-
+Script, and gRPC, engaging in collaborative development, code reviews,
+and discussions.
+\end{itemize}
+\vspace{20pt}
+
+
+\section*{Education}
+\noindent\textbf{Bachelor’s degree: Arabic Literature | University of Djelfa (Djelfa, Djelfa)} \\
+2023 \\
+
+
+\end{document}
