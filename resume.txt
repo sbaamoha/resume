@@ -1,6 +1,7 @@
 \documentclass{article}
-\usepackage[margin=1in]{geometry}
+
 \usepackage{hyperref}
+\usepackage[margin=1.5cm]{geometry}  % Set left and right margins
 
 \begin{document}
 
