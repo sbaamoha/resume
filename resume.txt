@@ -1,4 +1,8 @@
 \documentclass{article}
+\usepackage{fontspec}
+
+% Set the main font for the document
+\setmainfont{Arial}
 
 \usepackage{hyperref}
 \usepackage[margin=1.5cm]{geometry}  % Set left and right margins
