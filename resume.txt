@@ -69,7 +69,7 @@ and discussions.
 \vspace{20pt}
 
 \noindent \textbf{Full-Stack Developer | Freelance (Remote)} \\
-Mar 2023 – Mar 2024 \\
+Dec 2022 – Mar 2024 \\
 \vspace{-10pt}
 \begin{itemize}
   \item Utilized JavaScript, React, Redux, Node.js, and MySQL in freelance
