@@ -39,7 +39,7 @@ with the latest web development trends.
 \section*{Experience}
 
 
-\noindent \textbf{Front-end Developer | inhouse.sa (Remote)} \\
+\noindent \textbf{Front-end Developer | InHouse (Remote)} \\
 Sep 2023 – Present \\
 \vspace{-10pt}
 \begin{itemize}
