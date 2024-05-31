@@ -22,31 +22,40 @@
 \end{center}
 
 \section*{Summary}
-Self-taught full-stack developer with expertise in crafting aesthetically
+Self-taught Software developer with expertise in crafting aesthetically
 pleasing and highly functional websites and applications.
 Proficient in HTML, CSS, JavaScript, TypeScript, Tailwindcss, React, Next.js,
 and Node.js.
 Keen eye for detail and innovative problem-solving, staying up-to-date
 with the latest web development trends.
 \section*{Skills}
-\textbf{Programming Languages:} Typescript \\
+\textbf{Programming Languages:} Typescript, Python \\
 \textbf{Frontend Technologies:} React with Typescript, HTML5, CSS3, Next.js \\
-\textbf{Backend Frameworks:} ExpressJS \\
+\textbf{Backend Frameworks:} ExpressJS, Nestjs, Django \\
 \textbf{Database Management Systems:} PostgreSQL, MySQL, MongoDB \\
 \textbf{Cloud and Deployment Platforms:} Docker \\
 \textbf{Development Tools:} Chrome DevTools, Version Control (Git) \\
 
 \section*{Experience}
 
+\noindent \textbf{Software Developer | Plane (Remote)} \\
+Open Source Contributor \\
+May 2024 – Present \\
+\vspace{-10pt}
+\begin{itemize}
+  \item Contributing to the development and improvement of open-source projects.
+  \item Engaging in collaborative coding sessions, code reviews, and discussions to enhance project quality and functionality.
+  \item Implementing new features and fixing bugs to ensure project stability and performance.
+\end{itemize}
+\vspace{20pt}
 
 \noindent \textbf{Front-end Developer | InHouse (Remote)} \\
 Sep 2023 – Present \\
 \vspace{-10pt}
 \begin{itemize}
   \item Leveraged TypeScript, React, Tailwind CSS, Bootstrap, and REST API technologies to architect responsive user interfaces, optimize application performance, and rationalize manufacturing workflows.
-\item Revitalized dashboard user experience through meticulous implementation of API interaction best practices.
-\item Achieved a notable 50\% reduction in web application load times, significantly enhancing overall performance.
-
+  \item Revitalized dashboard user experience through meticulous implementation of API interaction best practices.
+  \item Achieved a notable 50\% reduction in web application load times, significantly enhancing overall performance.
 \end{itemize}
 \vspace{20pt}
 
@@ -54,27 +63,16 @@ Sep 2023 – Present \\
 Mar 2023 – Sep 2023 \\
 \vspace{-10pt}
 \begin{itemize}
-  \item Integrate the backend with different merchant centers including (Meta, Google, Bing, Tiktok, Twitter).
+  \item Integrated the backend with different merchant centers including (Meta, Google, Bing, Tiktok, Twitter).
 \end{itemize}
 \vspace{20pt}
 
-\noindent \textbf{Full-stack Developer Contributor | Cal.com (Remote)} \\
-Dec 2023 – Jan 2024 \\
-\vspace{-10pt}
-\begin{itemize}
-  \item Actively contributed to an open-source project using Next.js, Type-
-Script, and gRPC, engaging in collaborative development, code reviews,
-and discussions.
-\end{itemize}
-\vspace{20pt}
 
-\noindent \textbf{Full-Stack Developer | Freelance (Remote)} \\
+\noindent \textbf{Software Developer | Freelance (Remote)} \\
 Dec 2022 – Mar 2024 \\
 \vspace{-10pt}
 \begin{itemize}
-  \item Utilized JavaScript, React, Redux, Node.js, and MySQL in freelance
-projects, managing end-to-end development, deployment on VPS, and
-database manipulation.
+  \item Utilized JavaScript, React, Redux, Node.js, and MySQL in freelance projects, managing end-to-end development, deployment on VPS, and database manipulation.
 \end{itemize}
 \vspace{20pt}
 
