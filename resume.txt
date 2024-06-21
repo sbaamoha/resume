@@ -18,6 +18,8 @@
 \textbf{Email:} sbaamohe@gmail.com \\
 \textbf{GitHub:} \href{https://github.com/sbaamoha}{https://github.com/sbaamoha} \\
 \textbf{LinkedIn:} \href{https://www.linkedin.com/in/sba-mohamed-a14370217/}{https://www.linkedin.com/in/sba-mohamed-a14370217/} \\
+\textbf{Portfolio:} \href{https://portfolio-plum-iota-11.vercel.app/}{https://portfolio-plum-iota-11.vercel.app/} \\
+
 
 \end{center}
 
@@ -40,10 +42,8 @@ with the latest web development trends.
 
 \noindent \textbf{Software Developer | Plane (Remote)} \\
 Open Source Contributor \\
-May 2024 – Present \\
 \vspace{-10pt}
 \begin{itemize}
-  \item Contributing to the development and improvement of open-source projects.
   \item Engaging in collaborative coding sessions, code reviews, and discussions to enhance project quality and functionality.
   \item Implementing new features and fixing bugs to ensure project stability and performance.
 \end{itemize}
