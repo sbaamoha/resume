@@ -31,23 +31,15 @@ and Node.js.
 Keen eye for detail and innovative problem-solving, staying up-to-date
 with the latest web development trends.
 \section*{Skills}
-\textbf{Programming Languages:} Typescript \\
-\textbf{Frontend Technologies:} React with Typescript, HTML5, CSS3, Next.js \\
-\textbf{Backend Frameworks:} ExpressJS \\
+\textbf{Programming Languages:} JavaScript, TypeScript \\
+\textbf{Frontend Technologies:} React, HTML5, CSS3, Next.js, Redux, Context API, Redux, Zustand, RESTful APIs,Responsive Design, TailwindCSS, Shadcn UI, Radix UI \\
+\textbf{Backend Frameworks:} Node.js, Express.js \\
 \textbf{Database Management Systems:} PostgreSQL, MySQL, MongoDB \\
 \textbf{Cloud and Deployment Platforms:} Docker \\
-\textbf{Development Tools:} Chrome DevTools, Version Control (Git) \\
-
+\textbf{Development Tools:} Git, npm \\
+\textbf{Additional:} Agile, Scrum, Service Workers, React Native basics  \\
 \section*{Experience}
 
-\noindent \textbf{Software Developer | Plane (Remote)} \\
-Open Source Contributor \\
-\vspace{-10pt}
-\begin{itemize}
-  \item Engaging in collaborative coding sessions, code reviews, and discussions to enhance project quality and functionality.
-  \item Implementing new features and fixing bugs to ensure project stability and performance.
-\end{itemize}
-\vspace{20pt}
 
 \noindent \textbf{Front-end Developer | InHouse (Remote)} \\
 Sep 2023 – Present \\
