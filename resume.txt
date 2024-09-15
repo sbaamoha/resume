@@ -45,9 +45,11 @@ with the latest web development trends.
 Sep 2023 – Present \\
 \vspace{-10pt}
 \begin{itemize}
-  \item Leveraged TypeScript, React, Tailwind CSS, Bootstrap, and REST API technologies to architect responsive user interfaces, optimize application performance, and rationalize manufacturing workflows.
-  \item Revitalized dashboard user experience through meticulous implementation of API interaction best practices.
-  \item Achieved a notable 50\% reduction in web application load times, significantly enhancing overall performance.
+  \item Integrate the dashboard of manufacturing system with the backend API's.
+  \item Inhance the dashboard performance and responsiveness.
+  \item Create the mobile app of the dropshipping website.
+  \item Switch the dashboard into progressive web app, to access the workers to integrate with the system.
+  \item Create CI/CD pipelines to enhance the deployment process in VPS server.
 \end{itemize}
 \vspace{20pt}
 
@@ -55,16 +57,21 @@ Sep 2023 – Present \\
 Mar 2023 – Sep 2023 \\
 \vspace{-10pt}
 \begin{itemize}
+  \item Worked as backend developer with Node.js and Medusa.js
   \item Integrated the backend with different merchant centers including (Meta, Google, Bing, Tiktok, Twitter).
+  \item Created a custom medusa.js plugin and integrated it with main project.
+  \item Improve the SEO rank using nextjs with the recommended attitudes.
 \end{itemize}
 \vspace{20pt}
 
 
 \noindent \textbf{Software Developer | Freelance (Remote)} \\
-Dec 2022 – Mar 2024 \\
+Dec 2022 – Mar 2023 \\
 \vspace{-10pt}
 \begin{itemize}
-  \item Utilized JavaScript, React, Redux, Node.js, and MySQL in freelance projects, managing end-to-end development, deployment on VPS, and database manipulation.
+  \item Worked as Fullstack developer on gaming platform that manages arenas and worldwide Esports.
+  \item Worked on the dashboard of gaming web app, backend integration, statistics pages, ...
+  \item Integrate the app with Google services (Google analytics, Google Adsence)
 \end{itemize}
 \vspace{20pt}
 
