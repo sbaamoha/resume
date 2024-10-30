@@ -10,15 +10,14 @@
 \begin{document}
 
 \begin{center}
-{\LARGE \textbf{Mohamed Sba}}
-
+{\LARGE \textbf{Mohamed Sba}}\\
 \vspace{5pt}
 
 \textbf{Phone:} +213664512005 \\
-\textbf{Email:} sbaamohe@gmail.com \\
+\textbf{Email:} mohamed@sbaamoha.com \\
 \textbf{GitHub:} \href{https://github.com/sbaamoha}{https://github.com/sbaamoha} \\
-\textbf{LinkedIn:} \href{https://www.linkedin.com/in/sba-mohamed-a14370217/}{https://www.linkedin.com/in/sba-mohamed-a14370217/} \\
-\textbf{Portfolio:} \href{https://portfolio-plum-iota-11.vercel.app/}{https://portfolio-plum-iota-11.vercel.app/} \\
+\textbf{LinkedIn:} \href{https://www.linkedin.com/in/sbamoha}{https://www.linkedin.com/in/sbamoha/} \\
+\textbf{Portfolio:} \href{sbaamoha.com}{https://sbaamoha.com} \\
 
 
 \end{center}
@@ -79,7 +78,7 @@ Dec 2022 – Mar 2023 \\
 
 \section*{Education}
 \noindent\textbf{Bachelor’s degree: Arabic Literature | University of Djelfa (Djelfa, Algeria)} \\
-2023 \\
+2023 - 2026 \\
 
 
 \end{document}
