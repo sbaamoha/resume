@@ -23,7 +23,7 @@
 \end{center}
 
 \section*{Summary}
-Self-taught Software frontend developer with expertise in crafting aesthetically
+Software frontend developer with expertise in crafting aesthetically
 pleasing and highly functional websites and applications.
 Proficient in HTML, CSS, JavaScript, TypeScript, Tailwindcss, React, Next.js,
 and Node.js.
@@ -31,12 +31,11 @@ Keen eye for detail and innovative problem-solving, staying up-to-date
 with the latest web development trends.
 \section*{Skills}
 \textbf{Programming Languages:} JavaScript, TypeScript \\
-\textbf{Frontend Technologies:} React, HTML5, CSS3, Next.js, Redux, Context API, Redux, Zustand, RESTful APIs,Responsive Design, TailwindCSS, Shadcn UI, Radix UI \\
+\textbf{Frontend Technologies:} React, HTML5, CSS3, Next.js, RESTful APIs,Responsive Design, TailwindCSS, Shadcn UI \\
 \textbf{Backend Frameworks:} Node.js, Express.js \\
 \textbf{Database Management Systems:} PostgreSQL, MySQL, MongoDB \\
-\textbf{Cloud and Deployment Platforms:} Docker \\
 \textbf{Development Tools:} Git, npm \\
-\textbf{Additional:} Agile, Scrum, Service Workers, React Native basics  \\
+\textbf{Additional:} Agile, Scrum, Service Workers  \\
 \section*{Experience}
 
 
@@ -45,10 +44,10 @@ Sep 2023 – Present \\
 \vspace{-10pt}
 \begin{itemize}
   \item Integrated the dashboard of manufacturing system with the backend API's.
-  \item Inhanced the dashboard performance and responsiveness.
-  \item Created the mobile app of the dropshipping website.
+  \item Inhanced the dashboard performance and  responsiveness.
   \item Switched the dashboard into progressive web app, to access the workers to integrate with the system.
   \item Created CI/CD pipelines to enhance the deployment process in VPS server.
+  \item Worked with ERPNext and developed several features when we switched to it.
 \end{itemize}
 \vspace{20pt}
 
