@@ -14,7 +14,7 @@
 \vspace{5pt}
 
 \textbf{Phone:} +213664512005 \\
-\textbf{Email:} mohamed@sbaamoha.com \\
+\textbf{Email:} sbaamohe@gmail.com \\
 \textbf{GitHub:} \href{https://github.com/sbaamoha}{https://github.com/sbaamoha} \\
 \textbf{LinkedIn:} \href{https://www.linkedin.com/in/sbamoha}{https://www.linkedin.com/in/sbamoha/} \\
 \textbf{Portfolio:} \href{sbaamoha.com}{https://sbaamoha.com} \\
@@ -23,19 +23,14 @@
 \end{center}
 
 \section*{Summary}
-Software frontend developer with expertise in crafting aesthetically
-pleasing and highly functional websites and applications.
-Proficient in HTML, CSS, JavaScript, TypeScript, Tailwindcss, React, Next.js,
-and Node.js.
-Keen eye for detail and innovative problem-solving, staying up-to-date
-with the latest web development trends.
+Mid-level Software Developer who helps businesses turn complex ideas into elegant, high-performing digital solutions. I focus on understanding client goals to craft user-friendly, scalable applications that drive growth and improve customer experience.
 \section*{Skills}
 \textbf{Programming Languages:} JavaScript, TypeScript \\
 \textbf{Frontend Technologies:} React, HTML5, CSS3, Next.js, RESTful APIs,Responsive Design, TailwindCSS, Shadcn UI \\
 \textbf{Backend Frameworks:} Node.js, Express.js \\
 \textbf{Database Management Systems:} PostgreSQL, MySQL, MongoDB \\
 \textbf{Development Tools:} Git, npm \\
-\textbf{Additional:} Agile, Scrum, Service Workers  \\
+\textbf{Additional:} Linux, Docker, DevOps, CI/CD, Agile, Scrum, Service Workers  \\
 \section*{Experience}
 
 
@@ -72,12 +67,5 @@ Dec 2022 – Mar 2023 \\
   \item Integrated the app with Google services (Google analytics, Google Adsence)
 \end{itemize}
 \vspace{20pt}
-
-
-
-\section*{Education}
-\noindent\textbf{Arabic Literature | University of Djelfa (Djelfa, Algeria)} \\
-2023 - 2026 \\
-
 
 \end{document}
