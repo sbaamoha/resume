@@ -13,6 +13,7 @@
 {\LARGE \textbf{Mohamed Sba}}\\
 \vspace{5pt}
 
+\textbf{Location:} Algeria \\
 \textbf{Phone:} +213664512005 \\
 \textbf{Email:} sbaamohe@gmail.com \\
 \textbf{GitHub:} \href{https://github.com/sbaamoha}{https://github.com/sbaamoha} \\
@@ -24,13 +25,15 @@
 
 \section*{Summary}
 Mid-level Software Developer who helps businesses turn complex ideas into elegant, high-performing digital solutions. I focus on understanding client goals to craft user-friendly, scalable applications that drive growth and improve customer experience.
+
+
 \section*{Skills}
-\textbf{Programming Languages:} JavaScript, TypeScript \\
-\textbf{Frontend Technologies:} React, HTML5, CSS3, Next.js, RESTful APIs,Responsive Design, TailwindCSS, Shadcn UI \\
-\textbf{Backend Frameworks:} Node.js, Express.js \\
+\textbf{Programming Languages:} JavaScript, Python \\
+\textbf{Frontend Technologies:} React, HTML, CSS, Next.js, RESTful APIs, Responsive Design, TailwindCSS, State Management (Redux, Zustand) \\
+\textbf{Backend Frameworks:} Node.js/Express.js, Python/Frappe \\
 \textbf{Database Management Systems:} PostgreSQL, MySQL, MongoDB \\
-\textbf{Development Tools:} Git, npm \\
-\textbf{Additional:} Linux, Docker, DevOps, CI/CD, Agile, Scrum, Service Workers  \\
+\textbf{Development Tools:} Git and Github \\
+\textbf{Additional:} Linux, Docker, Nginx, DevOps, CI/CD, Agile, Scrum \\
 \section*{Experience}
 
 
@@ -38,34 +41,34 @@ Mid-level Software Developer who helps businesses turn complex ideas into elegan
 Sep 2023 – Present \\
 \vspace{-10pt}
 \begin{itemize}
-  \item Integrated the dashboard of manufacturing system with the backend API's.
-  \item Inhanced the dashboard performance and  responsiveness.
-  \item Switched the dashboard into progressive web app, to access the workers to integrate with the system.
-  \item Created CI/CD pipelines to enhance the deployment process in VPS server.
+  \item Integrated the dashboard of the manufacturing system with the backend API's.
+  \item Enhanced the dashboard performance and  responsiveness.
+  \item Switched the dashboard into a progressive web app to enable the workers to integrate with the system.
+  \item Created CI/CD pipelines to enhance the deployment process in the VPS server.
   \item Worked with ERPNext and developed several features when we switched to it.
 \end{itemize}
-\vspace{20pt}
+\vspace{10pt}
 
 \noindent \textbf{Backend Developer | Maroc4ps (Remote)} \\
 Mar 2023 – Sep 2023 \\
 \vspace{-10pt}
 \begin{itemize}
-  \item Worked as backend developer with Node.js and Medusa.js
-  \item Integrated the backend with different merchant centers including (Meta, Google, Bing, Tiktok, Twitter).
-  \item Created a custom medusa.js plugin and integrated it with main project.
-  \item Improved the SEO rank using Next.js with the reommended attitudes.
+  \item Worked as a backend developer with Node.js and Medusa.js
+  \item Integrated the backend with different merchant centers, including (Meta, Google, Bing, TikTok, Twitter).
+  \item Created a custom medusa.js plugin and integrated it with the main project.
+  \item Improved the SEO rank using Next.js with the recommended attitudes.
 \end{itemize}
-\vspace{20pt}
+\vspace{10pt}
 
 
 \noindent \textbf{Software Developer | Freelance (Remote)} \\
 Dec 2022 – Mar 2023 \\
 \vspace{-10pt}
 \begin{itemize}
-  \item Worked as Fullstack developer on gaming platform that manages arenas and worldwide Esports.
-  \item Worked on the dashboard of gaming web app, backend integration, statistics pages, ...
-  \item Integrated the app with Google services (Google analytics, Google Adsence)
+  \item Worked as a full-stack developer on a gaming platform that manages arenas and worldwide Esports.
+  \item Worked on the dashboard of the gaming web app, backend integration, statistics pages, ...
+  \item Integrated the app with Google services (Google Analytics, Google AdSense)
 \end{itemize}
-\vspace{20pt}
+\vspace{10pt}
 
 \end{document}
