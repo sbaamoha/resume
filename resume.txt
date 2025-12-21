@@ -24,7 +24,7 @@
 \end{center}
 
 \section*{Summary}
-Mid-level Software Developer who helps businesses turn complex ideas into elegant, high-performing digital solutions. I focus on understanding client goals to craft user-friendly, scalable applications that drive growth and improve customer experience.
+Frontend Developer who helps businesses turn complex ideas into elegant, high-performing digital solutions. I focus on understanding client goals to craft user-friendly, scalable applications that drive growth and improve customer experience.
 
 
 \section*{Skills}
