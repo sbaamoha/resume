@@ -37,6 +37,16 @@ Mid-level Software Developer who helps businesses turn complex ideas into elegan
 \section*{Experience}
 
 
+\noindent \textbf{Frontend Developer | Helix Ai (Remote)} \\
+Sep 2025 – Present \\
+\vspace{-10pt}
+\begin{itemize}
+  \item Developed the Frontend dashboard of KPI's and RFID platforms.
+  \item Integrated the dashboards with the backend with real life data.
+\end{itemize}
+\vspace{10pt}
+
+
 \noindent \textbf{Frontend Developer | InHouse (Remote)} \\
 Sep 2023 – Present \\
 \vspace{-10pt}
