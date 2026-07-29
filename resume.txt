@@ -1,84 +1,136 @@
 \documentclass{article}
-\usepackage{fontspec}
 
-% Set the main font for the document
-\setmainfont{Arial}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[scaled]{helvet}
+  \renewcommand{\familydefault}{\sfdefault}
+\else
+  \usepackage{fontspec}
+  \setmainfont{Arial}
+\fi
 
-\usepackage{hyperref}
-\usepackage[margin=1.5cm]{geometry}  % Set left and right margins
+\usepackage[hidelinks]{hyperref}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{enumitem}
+
+\pagestyle{empty}
+\setlist[itemize]{leftmargin=*, noitemsep, topsep=2pt}
 
 \begin{document}
 
 \begin{center}
-{\LARGE \textbf{Mohamed Sba}}\\
-\vspace{5pt}
+{\LARGE\bfseries Mohamed Sba}
 
-\textbf{Location:} Algeria \\
-\textbf{Phone:} +213664512005 \\
-\textbf{Email:} sbaamohe@gmail.com \\
-\textbf{GitHub:} \href{https://github.com/sbaamoha}{https://github.com/sbaamoha} \\
-\textbf{LinkedIn:} \href{https://www.linkedin.com/in/sbamoha}{https://www.linkedin.com/in/sbamoha/} \\
-\textbf{Portfolio:} \href{sbaamoha.com}{https://sbaamoha.com} \\
+\vspace{4pt}
 
+Algeria \\
++213664512005 \\
+sbaamohe@gmail.com \\
+
+\href{https://github.com/sbaamoha}{GitHub} \quad | \quad
+\href{https://www.linkedin.com/in/sbamoha/}{LinkedIn} \quad | \quad
+\href{https://sbaamoha.com}{Portfolio}
 
 \end{center}
 
-\section*{Summary}
-Frontend Developer who helps businesses turn complex ideas into elegant, high-performing digital solutions. I focus on understanding client goals to craft user-friendly, scalable applications that drive growth and improve customer experience.
+%========================================================
 
+\section*{Professional Summary}
 
-\section*{Skills}
-\textbf{Programming Languages:} JavaScript, Python \\
-\textbf{Frontend Technologies:} React, HTML, CSS, Next.js, RESTful APIs, Responsive Design, TailwindCSS, State Management (Redux, Zustand) \\
-\textbf{Backend Frameworks:} Node.js/Express.js, Python/Frappe \\
-\textbf{Database Management Systems:} PostgreSQL, MySQL, MongoDB \\
-\textbf{Development Tools:} Git and Github \\
-\textbf{Additional:} Linux, Docker, Nginx, DevOps, CI/CD, Agile, Scrum \\
-\section*{Experience}
+Software Developer specializing in React Native and React with +3 years of experience building and maintaining production mobile and web applications. I've worked on logistics, HR, e-commerce, manufacturing, and AI products, collaborating with backend teams to deliver reliable features from development through production. Alongside mobile development, I have experience with React, ERPNext/Frappe, and backend integrations.
+%========================================================
 
+\section*{Technical Skills}
 
-\noindent \textbf{Frontend Developer | Helix Ai (Remote)} \\
-Sep 2025 – Present \\
-\vspace{-10pt}
+\textbf{Languages:} JavaScript, TypeScript, Python
+
+\textbf{Mobile:} React Native, Expo, Firebase Cloud Messaging (FCM), Push Notifications, Deep Linking, Monitoring
+
+\textbf{Frontend:} React, Next.js, HTML5, CSS3, Tailwind CSS, Redux, Zustand, Responsive Design
+
+\textbf{Backend:} Node.js, Express.js, Python/Frappe, REST APIs
+
+\textbf{Databases:} PostgreSQL, MySQL
+
+\textbf{Tools:} Git, GitHub, Docker, Linux, Nginx, CI/CD
+
+\textbf{Practices:} Agile, Scrum, Performance Optimization
+
+%========================================================
+
+\section*{Professional Experience}
+
+\textbf{Software Developer | InHouse (Remote)} \hfill Sep 2023 -- Present
+
+\textit{Progressed from Frontend Developer to ERPNext Developer, and currently Mobile app Developer.}
+
 \begin{itemize}
-  \item Developed the Frontend dashboard of KPI's and RFID platforms.
-  \item Integrated the dashboards with the backend with real life data.
+    \item Started as a Frontend Developer, building and maintaining React dashboards for manufacturing and enterprise systems.
+    \item Integrated frontend applications with backend APIs and improved performance and responsiveness across multiple projects.
+    \item Contributed to the migration toward ERPNext by developing custom features and business workflows using Frappe Framework.
+    \item Worked on Helix AI products, building KPI and RFID dashboards and integrating them with backend services.
+    \item Transitioned into React Native development and became responsible for the company's mobile applications.
+    \item Built the \textbf{Asraa} logistics application used for shipment and logistics operations.
+    \item Developed the \textbf{Anjaz} application for HR and internal company operations.
+    \item Took over the \textbf{Backcomfort} Flutter application after the initial development phase, continued implementing new features, fixing issues, and maintaining the application.
+    \item Integrated authentication, REST APIs, push notifications, file uploads, and other business workflows across multiple mobile applications.
+    \item Improved deployment workflows by introducing CI/CD pipelines and continued supporting web and ERPNext projects whenever needed.
 \end{itemize}
-\vspace{10pt}
 
+\vspace{8pt}
 
-\noindent \textbf{Frontend Developer | InHouse (Remote)} \\
-Sep 2023 – Present \\
-\vspace{-10pt}
+\textbf{Frontend Developer | Helix AI (Remote)} \hfill Sep 2025 -- Present
+
 \begin{itemize}
-  \item Integrated the dashboard of the manufacturing system with the backend API's.
-  \item Enhanced the dashboard performance and  responsiveness.
-  \item Switched the dashboard into a progressive web app to enable the workers to integrate with the system.
-  \item Created CI/CD pipelines to enhance the deployment process in the VPS server.
-  \item Worked with ERPNext and developed several features when we switched to it.
+\item Built new features for KPI and RFID dashboards used by enterprise clients.
+\item Connected the frontend with backend services and improved the overall user experience.
+\item Worked with the team to deliver production features and performance improvements.
 \end{itemize}
-\vspace{10pt}
 
-\noindent \textbf{Backend Developer | Maroc4ps (Remote)} \\
-Mar 2023 – Sep 2023 \\
-\vspace{-10pt}
+\vspace{8pt}
+
+\textbf{Software Developer | Maroc4ps (Remote)} \hfill Mar 2023 -- Sep 2023
+
 \begin{itemize}
-  \item Worked as a backend developer with Node.js and Medusa.js
-  \item Integrated the backend with different merchant centers, including (Meta, Google, Bing, TikTok, Twitter).
-  \item Created a custom medusa.js plugin and integrated it with the main project.
-  \item Improved the SEO rank using Next.js with the recommended attitudes.
+\item Built backend features using Node.js and Medusa.js.
+\item Integrated the platform with Meta, Google, Bing, TikTok, and Twitter merchant services.
+\item Developed custom Medusa.js plugins to support business-specific requirements.
+\item Improved SEO and frontend performance using Next.js.
 \end{itemize}
-\vspace{10pt}
 
+\vspace{8pt}
 
-\noindent \textbf{Software Developer | Freelance (Remote)} \\
-Dec 2022 – Mar 2023 \\
-\vspace{-10pt}
+\textbf{Software Developer | Freelance (Remote)} \hfill Dec 2022 -- Mar 2023
+
 \begin{itemize}
-  \item Worked as a full-stack developer on a gaming platform that manages arenas and worldwide Esports.
-  \item Worked on the dashboard of the gaming web app, backend integration, statistics pages, ...
-  \item Integrated the app with Google services (Google Analytics, Google AdSense)
+\item Developed full-stack web applications for gaming and esports platforms.
+\item Built dashboards, statistics pages, and backend integrations.
+\item Integrated Google Analytics and Google AdSense services.
 \end{itemize}
-\vspace{10pt}
+%========================================================
+
+\section*{Featured Project}
+
+\textbf{Rendez-vous — Healthcare Appointment Platform}
+
+\textit{React Native • Golang • PostgreSQl}
+
+\begin{itemize}
+\item Building an appointment platform that connects patients with healthcare providers.
+\item Developing the mobile application in React Native and the backend in Go, with a focus on clean architecture and maintainability.
+\item Implementing appointment scheduling, queue management, authentication, notifications, and patient records.
+\item Designing the system to support different user roles, including patients, doctors, secretaries, and administrators.
+\end{itemize}
+%========================================================
+
+\section*{Highlights}
+
+\begin{itemize}
+\item Delivered three production React Native applications across logistics, HR, and e-commerce.
+\item Comfortable joining existing projects, understanding unfamiliar codebases, and continuing development.
+\item Experience working with both mobile and web applications in fast-paced remote teams.
+\item Built features that integrate React Native applications with ERPNext and REST APIs.
+\end{itemize}
 
 \end{document}
