@@ -1,8 +1,10 @@
-\documentclass{article}
+
+\documentclass[10pt,a4paper]{article}
 
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
   \usepackage[scaled]{helvet}
   \renewcommand{\familydefault}{\sfdefault}
 \else
@@ -11,22 +13,40 @@
 \fi
 
 \usepackage[hidelinks]{hyperref}
-\usepackage[margin=1.5cm]{geometry}
+\usepackage[margin=1.45cm]{geometry}
 \usepackage{enumitem}
 
 \pagestyle{empty}
-\setlist[itemize]{leftmargin=*, noitemsep, topsep=2pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlist[itemize]{
+  leftmargin=*,
+  noitemsep,
+  topsep=2pt,
+  parsep=0pt,
+  partopsep=0pt
+}
+\urlstyle{same}
 
 \begin{document}
+
+%========================================================
+% HEADER
+%========================================================
 
 \begin{center}
 {\LARGE\bfseries Mohamed Sba}
 
+\vspace{3pt}
+
+{\normalsize Full-Stack JavaScript Developer | Software Engineer}
+
 \vspace{4pt}
 
-Algeria \\
-+213664512005 \\
-sbaamohe@gmail.com \\
+Algeria \quad | \quad +213664512005 \quad | \quad
+\href{mailto:sbaamohe@gmail.com}{sbaamohe@gmail.com}
+
+\vspace{3pt}
 
 \href{https://github.com/sbaamoha}{GitHub} \quad | \quad
 \href{https://www.linkedin.com/in/sbamoha/}{LinkedIn} \quad | \quad
@@ -34,103 +54,188 @@ sbaamohe@gmail.com \\
 
 \end{center}
 
+\vspace{-5pt}
+
+%========================================================
+% SUMMARY
 %========================================================
 
 \section*{Professional Summary}
 
-Software Developer specializing in React Native and React with +3 years of experience building and maintaining production mobile and web applications. I've worked on logistics, HR, e-commerce, manufacturing, and AI products, collaborating with backend teams to deliver reliable features from development through production. Alongside mobile development, I have experience with React, ERPNext/Frappe, and backend integrations.
+Full-Stack JavaScript Developer with 3+ years of professional
+software development experience building and maintaining web
+applications, business dashboards, e-commerce platforms, and
+mobile applications. Experienced in frontend development with
+React and Next.js, backend development with Node.js and
+Medusa.js, and integrating REST APIs and third-party services.
+Additional experience with TypeScript, Python, Go, and
+Frappe/ERPNext for enterprise workflows and business process
+automation. Comfortable working with existing codebases,
+collaborating with remote teams, and delivering maintainable
+features aligned with business requirements.
+
+%========================================================
+% TECHNICAL SKILLS
 %========================================================
 
 \section*{Technical Skills}
 
 \textbf{Languages:} JavaScript, TypeScript, Python
 
-\textbf{Mobile:} React Native, Expo, Firebase Cloud Messaging (FCM), Push Notifications, Deep Linking, Monitoring
+\textbf{Frontend:} React, Next.js, HTML5, CSS3, Tailwind CSS,
+Redux, Zustand, Responsive Web Design
 
-\textbf{Frontend:} React, Next.js, HTML5, CSS3, Tailwind CSS, Redux, Zustand, Responsive Design
-
-\textbf{Backend:} Node.js, Express.js, Python/Frappe, REST APIs
+\textbf{Backend:} Node.js, Express.js, Medusa.js, Frappe Framework,
+REST API Development, API Integration
 
 \textbf{Databases:} PostgreSQL, MySQL
 
-\textbf{Tools:} Git, GitHub, Docker, Linux, Nginx, CI/CD
+\textbf{E-commerce:} Medusa.js, Magento Integration,
+Merchant Feeds, Third-Party Service Integrations
 
-\textbf{Practices:} Agile, Scrum, Performance Optimization
+\textbf{Enterprise Systems:} ERPNext, Business Workflow Automation,
+Custom Reports, Data Import and Processing
 
+\textbf{Tools and Infrastructure:} Git, GitHub, Docker,
+Linux, Nginx, CI/CD
+
+\textbf{Additional Development:} React Native, Expo,
+Firebase Cloud Messaging
+
+%========================================================
+% PROFESSIONAL EXPERIENCE
 %========================================================
 
 \section*{Professional Experience}
 
-\textbf{Software Developer | InHouse (Remote)} \hfill Sep 2023 -- Present
-
-\textit{Progressed from Frontend Developer to ERPNext Developer, and currently Mobile app Developer.}
-
-\begin{itemize}
-    \item Started as a Frontend Developer, building and maintaining React dashboards for manufacturing and enterprise systems.
-    \item Integrated frontend applications with backend APIs and improved performance and responsiveness across multiple projects.
-    \item Contributed to the migration toward ERPNext by developing custom features and business workflows using Frappe Framework.
-    \item Worked on Helix AI products, building KPI and RFID dashboards and integrating them with backend services.
-    \item Transitioned into React Native development and became responsible for the company's mobile applications.
-    \item Built the \textbf{Asraa} logistics application used for shipment and logistics operations.
-    \item Developed the \textbf{Anjaz} application for HR and internal company operations.
-    \item Took over the \textbf{Backcomfort} Flutter application after the initial development phase, continued implementing new features, fixing issues, and maintaining the application.
-    \item Integrated authentication, REST APIs, push notifications, file uploads, and other business workflows across multiple mobile applications.
-    \item Improved deployment workflows by introducing CI/CD pipelines and continued supporting web and ERPNext projects whenever needed.
-\end{itemize}
-
-\vspace{8pt}
-
-\textbf{Frontend Developer | Helix AI (Remote)} \hfill Sep 2025 -- Present
+\textbf{Software Developer | InHouse (Remote)}
+\hfill Sep 2023 -- Present
 
 \begin{itemize}
-\item Built new features for KPI and RFID dashboards used by enterprise clients.
-\item Connected the frontend with backend services and improved the overall user experience.
-\item Worked with the team to deliver production features and performance improvements.
+  \item Developed and maintained React-based dashboards for
+  manufacturing and enterprise systems, integrating frontend
+  interfaces with backend APIs.
+
+  \item Implemented frontend features, reusable interface
+  components, and responsive layouts to support business
+  workflows and operational requirements.
+
+  \item Customized Frappe/ERPNext applications by developing
+  business features, custom reports, workflows, and API
+  integrations.
+
+  \item Worked on Helix AI enterprise products, contributing
+  to KPI and RFID dashboards that present business and
+  operational data.
+
+  \item Integrated application interfaces with backend services
+  and supported data-driven workflows across enterprise systems.
+
+  \item Developed and maintained mobile applications using
+  React Native and Expo, collaborating with backend services
+  and supporting existing web and ERP projects when required.
+
+  \item Contributed to application deployment, maintenance,
+  and troubleshooting across multiple software projects.
 \end{itemize}
 
-\vspace{8pt}
+\vspace{3pt}
 
-\textbf{Software Developer | Maroc4ps (Remote)} \hfill Mar 2023 -- Sep 2023
+\textbf{Frontend Developer | Helix AI (Remote)}
+\hfill Sep 2025 -- Present
 
 \begin{itemize}
-\item Built backend features using Node.js and Medusa.js.
-\item Integrated the platform with Meta, Google, Bing, TikTok, and Twitter merchant services.
-\item Developed custom Medusa.js plugins to support business-specific requirements.
-\item Improved SEO and frontend performance using Next.js.
+  \item Developed features for KPI and RFID dashboards
+  used by enterprise clients.
+
+  \item Integrated frontend components with backend services
+  to retrieve and display operational and business data.
+
+  \item Collaborated with the development team to implement
+  dashboard functionality and improve usability.
 \end{itemize}
 
-\vspace{8pt}
+\vspace{3pt}
 
-\textbf{Software Developer | Freelance (Remote)} \hfill Dec 2022 -- Mar 2023
+\textbf{Software Developer | Maroc4ps (Remote)}
+\hfill Mar 2023 -- Sep 2023
 
 \begin{itemize}
-\item Developed full-stack web applications for gaming and esports platforms.
-\item Built dashboards, statistics pages, and backend integrations.
-\item Integrated Google Analytics and Google AdSense services.
+  \item Developed backend functionality using Node.js and
+  Medusa.js for e-commerce applications.
+
+  \item Integrated merchant feeds and external platforms,
+  including Meta, Google, Bing, TikTok, and Twitter.
+
+  \item Developed custom Medusa.js plugins to implement
+  business-specific requirements and extend platform functionality.
+
+  \item Contributed to Next.js frontend development and
+  search engine optimization (SEO) improvements.
+
+  \item Worked across frontend and backend features to support
+  e-commerce functionality and third-party integrations.
 \end{itemize}
+
+\vspace{3pt}
+
+\textbf{Software Developer | Freelance (Remote)}
+\hfill Dec 2022 -- Mar 2023
+
+\begin{itemize}
+  \item Developed full-stack web application features for
+  gaming and esports platforms.
+
+  \item Implemented dashboards, statistics pages, and
+  backend integrations.
+
+  \item Integrated Google Analytics and Google AdSense
+  to support analytics and advertising functionality.
+\end{itemize}
+
+%========================================================
+% SELECTED PROJECTS
 %========================================================
 
-\section*{Featured Project}
+\section*{Selected Projects}
 
-\textbf{Rendez-vous — Healthcare Appointment Platform}
-
-\textit{React Native • Golang • PostgreSQl}
-
-\begin{itemize}
-\item Building an appointment platform that connects patients with healthcare providers.
-\item Developing the mobile application in React Native and the backend in Go, with a focus on clean architecture and maintainability.
-\item Implementing appointment scheduling, queue management, authentication, notifications, and patient records.
-\item Designing the system to support different user roles, including patients, doctors, secretaries, and administrators.
-\end{itemize}
-%========================================================
-
-\section*{Highlights}
+\textbf{Rendez-vous -- Healthcare Appointment Platform}
+\hfill React Native, Go, PostgreSQL
 
 \begin{itemize}
-\item Delivered three production React Native applications across logistics, HR, and e-commerce.
-\item Comfortable joining existing projects, understanding unfamiliar codebases, and continuing development.
-\item Experience working with both mobile and web applications in fast-paced remote teams.
-\item Built features that integrate React Native applications with ERPNext and REST APIs.
+  \item Developing a healthcare appointment platform with
+  a React Native client application and a Go backend API.
+
+  \item Working on appointment scheduling, authentication,
+  notifications, and workflows for patients and healthcare
+  providers.
+
+  \item Designing role-based functionality for patients,
+  doctors, secretaries, and administrators.
 \end{itemize}
+
+\textbf{Helix AI -- Enterprise KPI and RFID Dashboards}
+\hfill React, TypeScript
+
+\begin{itemize}
+  \item Contributed to enterprise dashboards for KPI monitoring
+  and RFID-related operational visibility.
+
+  \item Integrated frontend features with backend services
+  to support business data presentation.
+\end{itemize}
+
+\textbf{ERPNext Business Customizations}
+\hfill Python, Frappe, ERPNext
+
+\begin{itemize}
+  \item Developed custom business functionality, reports,
+  data imports, and integrations for enterprise workflows.
+
+  \item Worked with existing ERP systems to implement
+  requirements and improve operational processes.
+\end{itemize}
+
+
 
 \end{document}
